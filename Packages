@@ -31,16 +31,16 @@ Author: 糖醋丶炒排骨
 Name: 韩剧tvCrack
 
 Package: com.paigu.toutiao
-Version: 1.0.2-1+debug
+Version: 1.0.3-beta4-1+debug
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
-Installed-Size: 200
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.paigu.toutiao_1.0.2-1+debug_iphoneos-arm.deb
-Size: 4694
-MD5sum: 36ebd016b919aab5a3322d99dd48fbd8
-SHA1: 1819a2404057edce1941067fd03cbd6968e96389
-SHA256: b2ea574648ff783c85e0b6925ff21b3a714b432b7c9a759af8f9796657ce185e
+Filename: ./debs/com.paigu.toutiao_1.0.3-beta4-1+debug_iphoneos-arm.deb
+Size: 3612
+MD5sum: 74c8b7f63abbe9cd7a0d7db449fa0e28
+SHA1: 4100845de70ccd944eead7f989dad32927af46bf
+SHA256: 876e4dbc09d3d586dd9ce91fb65247fcb169c7a4f14bf71239c43e1c3244c8c8
 Section: Tweaks
 Description: 去掉流量提醒、置顶
 Author: 糖醋丶炒排骨
