@@ -1,3 +1,22 @@
+Package: Reveal2Loader
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: duyongchao <duyongchao.h@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, applist, preferenceloader, com.zidaneno5.ExtensionList
+Conflicts: com.rheard.rhrevealloader, com.rheard.reveal-loader
+Replaces: com.rheard.rhrevealloader, com.rheard.reveal-loader
+Filename: ./debs/Reveal2Loader_1.0-3_iphoneos-arm.deb
+Size: 4338590
+MD5sum: e2045b2175b162f3cc358ce6040834d8
+SHA1: 4f5eab14294fdf7a268d801a953c6bddfa7872b3
+SHA256: f947d2fbdf55e9c227c4e73116ec20ca19af41b27728fb47e77497d5b2b6fcf8
+Section: System
+Priority: optional
+Description: dynamically loads Reveal v21(11690) into applications and plugins.
+Author: duyongchao <duyongchao.h@gmail.com>
+Dev: zidaneno5
+Name: Reveal2Loader
+
 Package: com.paigu.amj
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
@@ -61,4 +80,22 @@ Section: Tweaks
 Description: 小蜜影视去广告
 Author: 糖醋丶炒排骨
 Name: XiaoMiNoAd
+
+Package: re.frida.server
+Version: 12.8.14
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 35440
+Conflicts: re.frida.server32
+Filename: ./debs/re.frida.server_12.8.14_iphoneos-arm.deb
+Size: 15130800
+MD5sum: cfa4a2f0db19354f410a42c0de4a4bc0
+SHA1: 2de763353c3c807a396c55b11ca129122c9626fd
+SHA256: 050d3981eee8f335379d4ff3e79beeb51adf923c7ac1527340384e362d25b440
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
 
