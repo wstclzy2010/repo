@@ -49,6 +49,22 @@ Description: 韩剧tv启用隐藏会员、去广告
 Author: 糖醋丶炒排骨
 Name: 韩剧tvCrack
 
+Package: com.paigu.ngh
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.ngh_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4366
+MD5sum: ecc25be9a068b4dfaa912de215f76471
+SHA1: 0fdeab0e927fcc098786456440ad8581abb3c48c
+SHA256: fc0ead3a376c47c0f7026b4ab4e05cb4436c7d30f5966d6cf4fe0e13288024c8
+Section: Tweaks
+Description: 南瓜影视商店版，开启会员，去掉所有广告
+Author: 糖醋丶炒排骨
+Name: 历史天天听Crack
+
 Package: com.paigu.toutiao
 Version: 1.0.4-1+debug
 Architecture: iphoneos-arm
