@@ -50,34 +50,18 @@ Author: 糖醋丶炒排骨
 Name: 韩剧tvCrack
 
 Package: com.paigu.ngh
-Version: 1.0.0-1+debug
+Version: 1.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/com.paigu.ngh_1.0.0-1+debug_iphoneos-arm.deb
-Size: 4366
-MD5sum: ecc25be9a068b4dfaa912de215f76471
-SHA1: 0fdeab0e927fcc098786456440ad8581abb3c48c
-SHA256: fc0ead3a376c47c0f7026b4ab4e05cb4436c7d30f5966d6cf4fe0e13288024c8
+Filename: ./debs/com.paigu.ngh_1.0.2-1+debug_iphoneos-arm.deb
+Size: 4542
+MD5sum: 4317428953261925f33f425b1ea77617
+SHA1: deacbdb68d093e554c6591c60e90e4c2de000924
+SHA256: 0b278612ad2e6052cc15f74ecfcb0d16224a7a91914334f8a73a94ccc1bb53c7
 Section: Tweaks
-Description: 南瓜影视商店版，开启会员，去掉所有广告
-Author: 糖醋丶炒排骨
-Name: 历史天天听Crack
-
-Package: com.paigu.ngh
-Version: 1.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.ngh_1.0.1-1+debug_iphoneos-arm.deb
-Size: 4406
-MD5sum: 69d69155d5b79ff613d5251645bfbae2
-SHA1: eed7d74df104f8b560719776094ad7b6db9e33ab
-SHA256: 25b6f8cca84fe69d58612ca0710d56470972aff808cb3553f6e2381aee86cbb2
-Section: Tweaks
-Description: 南瓜影视商店版，开启会员，去掉所有广告
+Description: 南瓜影视商店版，开启会员，去掉所有广告。（出现空白是南瓜服务器问题，下拉刷新一下就好；而且南瓜后台存不住，经常会被kill。这两个都不是插件造成的）
 Author: 糖醋丶炒排骨
 Name: 历史天天听Crack
 
