@@ -81,6 +81,22 @@ Description: 去掉头条专业版和普通版的流量提醒、置顶新闻；�
 Author: 糖醋丶炒排骨
 Name: 今日头条Pro
 
+Package: com.paigu.wf
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wf_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3170
+MD5sum: 8aa150acbc902ee6059978b1bc5bc722
+SHA1: 341cff6b893c9acd8e28833c7c304695dbb4a783
+SHA256: 8263836329d96b168743bf4fcc1b2a73b1fde718ebd96f5670d59f3519ad1134
+Section: Tweaks
+Description: 两条方法去掉所有广告。思路是hook请求广告的URL
+Author: 糖醋丶炒排骨
+Name: 威锋去广告
+
 Package: com.paigu.xm
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
