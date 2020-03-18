@@ -113,6 +113,22 @@ Description: 小蜜影视去广告
 Author: 糖醋丶炒排骨
 Name: XiaoMiNoAd
 
+Package: com.paigu.xm
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.xm_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4288
+MD5sum: 66d123726845710775ddf93626f4aa1a
+SHA1: eed5999317bf327f703eabae673d44b409ab749a
+SHA256: 46884b5be640c2e87d4bfb14d2791d25653f5509ec2ad38751a52575c82786b0
+Section: Tweaks
+Description: 商店版小蜜影视去除所有广告
+Author: 糖醋丶炒排骨
+Name: 小蜜影视去广告
+
 Package: com.paigu.yk
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
