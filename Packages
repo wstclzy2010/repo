@@ -65,6 +65,21 @@ Description: 南瓜影视商店版，开启会员，去掉所有广告。（出�
 Author: 糖醋丶炒排骨
 Name: 历史天天听Crack
 
+Package: com.paigu.tb
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.tb_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3502
+MD5sum: b59dbb4bbb37d6627424b33934b4c4d0
+SHA1: ed78efaa55f9625e97a7c541745d8869e9d123c9
+SHA256: c9fe66a7c94ed6b6c25169e1ba4b4352f9a380f12c401884d10a1775fe69bb6e
+Section: Tweaks
+Description: 去掉百度贴吧首页的直播内容。这个只能写插件了，通过数组的valueforkey方法去掉直播内容。其他广告可用flex3去除。仅作为自用，应该适合所有版本的贴吧。
+Author: 糖醋丶炒排骨
+Name: 贴吧NoAla
+
 Package: com.paigu.toutiao
 Version: 1.0.4-1+debug
 Architecture: iphoneos-arm
