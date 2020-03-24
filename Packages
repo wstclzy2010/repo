@@ -32,6 +32,21 @@ Author: 糖醋丶炒排骨
 Depiction: 屏蔽thor的越狱检测、Flex 3插件检测、SuperCharge检测，支持最新Thor1.3.9.756
 Name: Thoro屏蔽越狱检测
 
+Package: com.paigu.ThorJBbypass
+Version: 1.0.8
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.paigu.ThorJBbypass_1.0.8_iphoneos-arm.deb
+Size: 35978
+MD5sum: 4eee891f94ad46f476a24dc886b2f526
+SHA1: ad26d71cc1f3a7ed2db2b1ac50f5571a73b05fea
+SHA256: 190969f3fb0a2caa13b3d1346dc92590d813abb999ca57979ec97c209136aa88
+Section: System
+Priority: optional
+Author: 糖醋丶炒排骨
+Depiction: 屏蔽thor的越狱检测、Flex 3插件检测、SuperCharge检测，支持最新Thor1.3.9.756
+Name: Thor屏蔽越狱检测
+
 Package: com.paigu.amj
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
