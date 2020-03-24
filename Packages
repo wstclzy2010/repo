@@ -17,6 +17,21 @@ Author: duyongchao <duyongchao.h@gmail.com>
 Dev: zidaneno5
 Name: Reveal2Loader
 
+Package: com.paigu.ThorJBbypass
+Version: 1.0.7
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.paigu.ThorJBbypass_1.0.7_iphoneos-arm.deb
+Size: 35984
+MD5sum: cecf7b4acbca2f26c90ef776a8562cb4
+SHA1: 0b7b3bedb6a899c6660689d64dfbaf85b1304cc7
+SHA256: 2fc4c218ca46fe216646bef70a9b27a5746deec627c7690795f1bc693e80a8ed
+Section: System
+Priority: optional
+Author: 糖醋丶炒排骨
+Depiction: 屏蔽thor的越狱检测、Flex 3插件检测、SuperCharge检测，支持最新Thor1.3.9.756
+Name: Thoro屏蔽越狱检测
+
 Package: com.paigu.amj
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
