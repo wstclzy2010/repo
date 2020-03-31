@@ -220,6 +220,22 @@ Description: 去掉头条专业版和普通版的流量提醒、置顶新闻、�
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.toutiao
+Version: 1.0.9-4+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.toutiao_1.0.9-4+debug_iphoneos-arm.deb
+Size: 5034
+MD5sum: f1e2949167d39e706667325e82517d46
+SHA1: 8aac1d802f3c275f7d9d2d94a5522c5703ab7076
+SHA256: 206949d55840bd2b7f3b2d14f657dd04b4ee7e1927209d53689f26c88b15d66c
+Section: Tweaks
+Description: 去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索；去掉专业版文章下的相关文章、圈子；去掉专业版视频下的相关视频。
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
 Package: com.paigu.wf
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
