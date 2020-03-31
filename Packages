@@ -141,6 +141,21 @@ Description: 去掉百度贴吧首页的直播内容。这个只能写插件了�
 Author: 糖醋丶炒排骨
 Name: 贴吧NoAla
 
+Package: com.paigu.tb
+Version: 0.0.2-2+debug
+Architecture: iphoneos-arm
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.tb_0.0.2-2+debug_iphoneos-arm.deb
+Size: 3708
+MD5sum: 285c16ea8b5fc365965fdabec407d04b
+SHA1: 569e0c100b38c435cd0842d2514e7235dad4793e
+SHA256: 333096e04ef984c2f1363799e074144769ab94cb95e45487689942fc2beed736
+Section: Tweaks
+Description: 去掉首页顶部横幅推广、去掉百度贴吧首页的直播内容。这个只能写插件了，通过数组的valueforkey方法去掉直播内容。其他广告包括新版本弹窗均可用flex3去除。
+Author: 糖醋丶炒排骨
+Name: 贴吧NoAla
+
 Package: com.paigu.toutiao
 Version: 1.0.4-1+debug
 Architecture: iphoneos-arm
