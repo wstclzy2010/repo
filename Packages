@@ -252,6 +252,22 @@ Description: 修复首次点开视频不显示详情的问题。
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.toutiao
+Version: 1.1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.toutiao_1.1.0-2+debug_iphoneos-arm.deb
+Size: 5078
+MD5sum: 2494e1d08c8f1c39c7e11b47e656e0f4
+SHA1: 2aed79ed2c3cf65cbfc86ead66b9c81e7f062ab1
+SHA256: d5f68da7920ed5b549ca2bb84b1ed38525b159ed86529cbcde66e889b6aa213b
+Section: Tweaks
+Description: (修复首次点开视频不显示详情的问题。)去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索；去掉专业版文章下的相关文章、圈子；去掉专业版视频下的相关视频。
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
 Package: com.paigu.wf
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
