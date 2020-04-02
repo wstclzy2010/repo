@@ -17,50 +17,23 @@ Author: duyongchao <duyongchao.h@gmail.com>
 Dev: zidaneno5
 Name: Reveal2Loader
 
-Package: com.paigu.ThorJBbypass
-Version: 1.0.7
+Package: com.chinapyg.lookinloader
+Version: 1.0.6-1
 Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/com.paigu.ThorJBbypass_1.0.7_iphoneos-arm.deb
-Size: 35984
-MD5sum: cecf7b4acbca2f26c90ef776a8562cb4
-SHA1: 0b7b3bedb6a899c6660689d64dfbaf85b1304cc7
-SHA256: 2fc4c218ca46fe216646bef70a9b27a5746deec627c7690795f1bc693e80a8ed
-Section: System
-Priority: optional
-Author: 糖醋丶炒排骨
-Depiction: 屏蔽thor的越狱检测、Flex 3插件检测、SuperCharge检测，支持最新Thor1.3.9.756
-Name: Thoro屏蔽越狱检测
-
-Package: com.paigu.ThorJBbypass
-Version: 1.0.8
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/com.paigu.ThorJBbypass_1.0.8_iphoneos-arm.deb
-Size: 35978
-MD5sum: 4eee891f94ad46f476a24dc886b2f526
-SHA1: ad26d71cc1f3a7ed2db2b1ac50f5571a73b05fea
-SHA256: 190969f3fb0a2caa13b3d1346dc92590d813abb999ca57979ec97c209136aa88
-Section: System
-Priority: optional
-Author: 糖醋丶炒排骨
-Depiction: 屏蔽thor的越狱检测、Flex 3插件检测、SuperCharge检测，支持最新Thor1.3.9.756
-Name: Thor屏蔽越狱检测
-
-Package: com.paigu.ThorJBbypass
-Version: 1.1.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/com.paigu.ThorJBbypass_1.1.0_iphoneos-arm.deb
-Size: 35982
-MD5sum: 4b094b4f209539227ada19f561a51671
-SHA1: bb344f9aeac3a24b6092c33d6f89a7a892b94f49
-SHA256: 4fb199a1432fab73aedf169871a96235368d7831f4e47e60df0e5bb9870b63ca
-Section: System
-Priority: optional
-Description: 屏蔽Thor的越狱检测、Flex 3插件检测、SuperCharge检测，支持最新版Thor1.3.9.756
-Author: 糖醋丶炒排骨
-Name: Thor屏蔽越狱检测
+Maintainer: creantan/P.Y.G
+Installed-Size: 10640
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.chinapyg.lookinloader_1.0.6-1_iphoneos-arm.deb
+Size: 2866542
+MD5sum: 4e23a6e27492953b22f249835d42d932
+SHA1: b803d92e035950be173a52e7f05d4d4b9aab3948
+SHA256: 333ee2e63adecdfb09eeb0c18e2fe8bed0e5233dbae50dd5056e4e0b23bc0d5c
+Section: Tweaks
+Homepage: https://www.chinapyg.com
+Description: An awesome Lookin Loader for iOS8~iOS13!(https://www.chinapyg.com)
+Author: creantan/P.Y.G
+Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
+Name: LookinLoader
 
 Package: com.paigu.amj
 Version: 0.0.2-1+debug
@@ -347,6 +320,27 @@ Section: Tweaks
 Description: 去掉启动广告/视频播放前广告/会员专享广告/暂停广告
 Author: 糖醋丶炒排骨
 Name: 清爽优酷
+
+Package: libflex
+Version: 4.0.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 7412
+Depends: firmware(>= 9.0), mobilesubstrate
+Conflicts: com.pantsthief.libflex
+Filename: ./debs/libflex_4.0.0_iphoneos-arm.deb
+Size: 1260764
+MD5sum: 5ef2b177f6b30126a4dbabc963963f90
+SHA1: cffac802807c7306b78122022ecaad87136f7ffb
+SHA256: 7595e02fb386bccdb6b1ce23508e615c333819bf9b919da2aa9c7a96dca59e09
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
+Description: A library for Flipboard Explorer.
+Tag: cydia::obsolete, purpose::library, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libflexDp
+Dev: tannerbennett
+Name: libFLEX
 
 Package: re.frida.server
 Version: 12.8.14
