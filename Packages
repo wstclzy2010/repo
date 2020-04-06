@@ -51,6 +51,22 @@ Description: 爱美剧去广告
 Author: 糖醋丶炒排骨
 Name: AiMeijuhook
 
+Package: com.paigu.amj
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.amj_1.0.0-1+debug_iphoneos-arm.deb
+Size: 5778
+MD5sum: f8c1c3dd3239b7584b9ae7a261d1eb24
+SHA1: 2218bb39eaffbb8ca6013bf86c474fd7660fc317
+SHA256: 721666e151e487fe072af48d44f46fcac2c910216b9325da30a84506c4cf217a
+Section: Tweaks
+Description: 自动跳过启动广告、视频播放前广告；去掉暂停广告；移除任务页面；免登陆观看会员内容
+Author: 糖醋丶炒排骨
+Name: 爱美剧去广告
+
 Package: com.paigu.hjtv
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
