@@ -289,6 +289,22 @@ Description: 去掉头条专业版和普通版的流量提醒、置顶新闻、�
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.vfa
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.vfa_0.0.1-4+debug_iphoneos-arm.deb
+Size: 3546
+MD5sum: 2a85623feb06b28f9d4179d657a9c78f
+SHA1: b05fa73c4ea0a630b9a0ee706edf322287d539ba
+SHA256: 97ad75b6de6a436905019f0df4ceffb512b9cc7120d8ab54535c429240d66051
+Section: Tweaks
+Description: 去掉微信公众号文章内置、底部的广告
+Author: 糖醋丶炒排骨
+Name: 微信公众号去广告
+
 Package: com.paigu.wf
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
