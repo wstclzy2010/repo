@@ -321,6 +321,22 @@ Description: 基于今日头条专业版7.0.9开发（这个旧版有真正的�
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.toutiao
+Version: 1.2.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.toutiao_1.2.1-1+debug_iphoneos-arm.deb
+Size: 6114
+MD5sum: 9dea9c847cc01173ce644d76c9e4802f
+SHA1: 4da3b9c264118a47018679945f069b0886840e04
+SHA256: a598a3a0ec48f399ebc5459e6645efae68cb6ae0cfa56efc2e752fb80810b354
+Section: Tweaks
+Description: 基于今日头条专业版7.0.9开发（这个旧版有真正的夜间模式，新版用不惯），不过也应该（或许）支持最新版。去掉头条专业版和普通版的流量提醒、置顶新闻以及文章下的相关搜索；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注。（此更新修复关注列表仍存在“推荐关注”cell的问题）
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
 Package: com.paigu.vfa
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
