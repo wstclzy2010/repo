@@ -67,6 +67,22 @@ Description: 自动跳过启动广告、视频播放前广告；去掉暂停广�
 Author: 糖醋丶炒排骨
 Name: 爱美剧去广告
 
+Package: com.paigu.bili
+Version: 1.0.2-2+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.bili_1.0.2-2+debug_iphoneos-arm.deb
+Size: 7276
+MD5sum: 6fa8ab094beab3964f07d31fd98df500
+SHA1: 57cf7dd1e5630416eaac32b56bd899590818972f
+SHA256: 356718de4eb9c611d0006ccbf4fa2442e9d241e4a4ff164f293995011d15f544
+Section: Tweaks
+Description: 适用最新版5.58.1。自动跳过启动广告（如果有）；去除青少年模式弹窗；去掉首页顶部横幅、首页广告卡片；去掉视频下方广告、活动推荐；普通视频可启用会员画质
+Author: 糖醋丶炒排骨
+Name: 哔哩哔哩去广告
+
 Package: com.paigu.hjtv
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
