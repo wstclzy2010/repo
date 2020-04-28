@@ -99,6 +99,22 @@ Description: 去除启动广告、首页音乐信息、首页左上角直播按�
 Author: 糖醋丶炒排骨
 Name: 抖音去广告
 
+Package: com.paigu.dy
+Version: 1.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.dy_1.0.1-1+debug_iphoneos-arm.deb
+Size: 6638
+MD5sum: 0fa40c22b65e5aad827cfd57b432bafe
+SHA1: 522cb777d519b2a6b7336695eb3c5caf7d59f835
+SHA256: 4e1174f3298b51a60c5967ae75a6766573a9b5b60b0c2b9e9fa783cc1197e048
+Section: Tweaks
+Description: （修复仍存在启动广告的问题）自动跳过启动广告、首页音乐信息、首页左上角直播按钮、评论区广告、消息页面广告和推荐关注、“我”页面“点击开拍”以及尝试去除其他广告
+Author: 糖醋丶炒排骨
+Name: 抖音去广告
+
 Package: com.paigu.hjtv
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
