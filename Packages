@@ -513,6 +513,22 @@ Description: 去掉启动广告/视频播放前广告/会员专享广告/暂停�
 Author: 糖醋丶炒排骨
 Name: 清爽优酷
 
+Package: com.paigu.yk
+Version: 1.0.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.yk_1.0.3-1+debug_iphoneos-arm.deb
+Size: 4960
+MD5sum: 8d72ac4e16b4c83e5343c519de4c452e
+SHA1: a4a3c651cec053b09af27f6ca0bd0b12ea23fc78
+SHA256: a7ede5b9c20637c54172b900a8066352bfdff8846ec27fac87b44339154bdd35
+Section: Tweaks
+Description: 测试于最新版8.6.8。去掉启动广告/视频播放前广告/会员专享广告/暂停广告
+Author: 糖醋丶炒排骨
+Name: 优酷去广告
+
 Package: libflex
 Version: 4.0.0
 Architecture: iphoneos-arm
