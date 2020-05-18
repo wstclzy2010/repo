@@ -147,6 +147,22 @@ Description: （自动跳过启动广告、首页音乐信息、首页左上角�
 Author: 糖醋丶炒排骨
 Name: 抖音去广告
 
+Package: com.paigu.dy
+Version: 1.1.1-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.dy_1.1.1-2_iphoneos-arm.deb
+Size: 5402
+MD5sum: a6daa140301815ac722dc7921d9b9f15
+SHA1: 09f239f18f15f068659f9d2af9d7e0ba18a7a0f3
+SHA256: b2f55e1c9a6bd9d4a8091905ee07f28bbceb17ff20f3fb5fdeaeefab5fe5d3a9
+Section: Tweaks
+Description: 自动跳过启动广告、首页音乐信息、首页左上角直播按钮、评论区广告、消息页面广告和推荐关注、“我”页面“点击开拍”以及feed流广告~~~~~~~~~~~~~~安装插件后请在抖音设置中清除缓存~~~~~~~~~~~~~~~~
+Author: 糖醋丶炒排骨
+Name: 抖音去广告
+
 Package: com.paigu.hc
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
