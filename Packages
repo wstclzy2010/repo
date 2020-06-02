@@ -657,6 +657,22 @@ Description: 测试于最新版8.6.8。去掉启动广告/视频播放前广告/
 Author: 糖醋丶炒排骨
 Name: 优酷去广告
 
+Package: com.yourcompany.caiyuncrack
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.caiyuncrack_1.0.0-2_iphoneos-arm.deb
+Size: 2708
+MD5sum: 51870f789562539f500eb9efb1e377d2
+SHA1: 68e866eaba92d337dd9afd1086cbb47f244e212d
+SHA256: 8c77f5ed79ec31eafe38b7fb1df8f536d7ffe79f795220b405d3847ceb298164
+Section: Tweaks
+Description: 登录即是会员
+Author: 糖醋丶炒排骨
+Name: 彩云天气+
+
 Package: libflex
 Version: 4.0.0
 Architecture: iphoneos-arm
