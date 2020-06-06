@@ -561,6 +561,22 @@ Description: （修复不显示阅读数量和“在看”）去掉微信公众�
 Author: 糖醋丶炒排骨
 Name: 微信公众号去广告
 
+Package: com.paigu.wbjad
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wbjad_1.0.0-1_iphoneos-arm.deb
+Size: 2666
+MD5sum: 336194a4ea84c8fef96ff76d693c8353
+SHA1: 8b3aa60aa417fc494554c2dbc6042307e9a208bb
+SHA256: 34eb620573c1afc3d91eb4fd571500c709282435ca1f04ceb347c1992e3ccbc2
+Section: Tweaks
+Description: 支持10.4.0最新版。去除启动广告、可开启会员功能——特别关注微博实时通知
+Author: 糖醋丶炒排骨
+Name: 微博+
+
 Package: com.paigu.wf
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
