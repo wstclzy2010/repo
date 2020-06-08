@@ -211,6 +211,22 @@ Description: 韩剧tv启用隐藏会员、去广告
 Author: 糖醋丶炒排骨
 Name: 韩剧tvCrack
 
+Package: com.paigu.ift
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.ift_1.0.0-3_iphoneos-arm.deb
+Size: 3218
+MD5sum: aad646122983c12e2c1f7406b2755d42
+SHA1: c3fd8086b479d76cd3510abd50bc63d9df62df8a
+SHA256: 64c684d143968377a3c15bc6737a495b386e6e0304792e0831859a6bf0c1c4a4
+Section: Tweaks
+Description: 开启会员功能。打开两次应用并关闭后台后需手动打开“关闭格言”开关即可生效
+Author: 糖醋丶炒排骨
+Name: 爱阅书香Crack
+
 Package: com.paigu.ngh
 Version: 1.0.2-1+debug
 Architecture: iphoneos-arm
