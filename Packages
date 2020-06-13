@@ -305,6 +305,21 @@ Description: 去掉首页顶部横幅推广、去掉百度贴吧首页的直播�
 Author: 糖醋丶炒排骨
 Name: 贴吧NoAla
 
+Package: com.paigu.tb
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.tb_1.0.0-2_iphoneos-arm.deb
+Size: 3742
+MD5sum: b607bf6c405b546e6cceb289b824fb2d
+SHA1: fbd7838c86f54879da1ac8c0c0c7826968a09a1d
+SHA256: 6d0a28bf4c0fe7b06dc98aef633f96da425be3794627445a8efd92ca33c0bdb2
+Section: Tweaks
+Description: （适用最新版11.5.3）首页顶部横幅推广、去掉百度贴吧首页的直播内容、一条方法去掉feed流广告和帖子方法广告、精简”我的“页面
+Author: 糖醋丶炒排骨
+Name: 贴吧去广告
+
 Package: com.paigu.toutiao
 Version: 1.0.4-1+debug
 Architecture: iphoneos-arm
