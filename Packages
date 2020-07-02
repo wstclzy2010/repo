@@ -768,6 +768,22 @@ Description: 登录即是会员
 Author: 糖醋丶炒排骨
 Name: 彩云天气+
 
+Package: com.yourcompany.heixiazi
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.heixiazi_1.0.0-1_iphoneos-arm.deb
+Size: 3550
+MD5sum: d3648470cbbb75ffafb83d4e53836f2f
+SHA1: 6c07879a14975fe1b031d4d5a9be9787cc964007
+SHA256: ba815bca3de3bd06714257fe88e05fd1b5c921548d3cbee901ff8ffda8b641b9
+Section: Tweaks
+Description: 横杠是“减”的意思。开启去广告权限、去除越狱检测
+Author: 糖醋丶炒排骨
+Name: 黑匣子player-
+
 Package: libflex
 Version: 4.0.0
 Architecture: iphoneos-arm
