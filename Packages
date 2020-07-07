@@ -640,6 +640,22 @@ Description: （修复不显示阅读数量和“在看”）去掉微信公众�
 Author: 糖醋丶炒排骨
 Name: 微信公众号去广告
 
+Package: com.paigu.vfa
+Version: 1.0.2-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.vfa_1.0.2-2_iphoneos-arm.deb
+Size: 3030
+MD5sum: cb926bb87b6090670764b32795465dda
+SHA1: 6dd237aa6a8424119e595305c98cbcd1c20ce6e2
+SHA256: 1db73cb206fa366f48b81a7c6fb943ab863ba66a0ce3515cbc5410377c670d1f
+Section: Tweaks
+Description: (尝试修复仍有广告的问题）去掉微信公众号文章内置、底部的广告
+Author: 糖醋丶炒排骨
+Name: 微信公众号去广告
+
 Package: com.paigu.wbjad
 Version: 1.0.0-1
 Architecture: iphoneos-arm
