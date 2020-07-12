@@ -275,6 +275,22 @@ Description: 历史天天听、南瓜礼品商店版，开启会员，去掉所�
 Author: 糖醋丶炒排骨
 Name: 南瓜影视Crack
 
+Package: com.paigu.rrm
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.rrm_1.0.0-1_iphoneos-arm.deb
+Size: 2528
+MD5sum: 1601dac7ff77e1c6d29ae9681095ba32
+SHA1: 61d53682c42ccdee0231e8582ec203483911ddb5
+SHA256: 10af4673c5aba82a70e9f1677a09527c0e683ace58258a7f68ff0250125f8289
+Section: Tweaks
+Description: 去除所有广告
+Author: 糖醋丶炒排骨
+Name: 人人视频去广告
+
 Package: com.paigu.tb
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
