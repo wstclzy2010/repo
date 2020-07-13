@@ -752,6 +752,22 @@ Description: 商店版小蜜影视去除所有广告
 Author: 糖醋丶炒排骨
 Name: 小蜜影视去广告
 
+Package: com.paigu.xunleihook
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.paigu.xunleihook_1.0.0-1_iphoneos-arm.deb
+Size: 3156
+MD5sum: 439841e3b7b3711e468fb8c81cf92b7a
+SHA1: 9f56930158d2f1055e93850cd644498954d68294
+SHA256: d7c9e1b238226b7ae69c4457b8b53e92934277549e056212794d4b1427ad8024
+Section: Tweaks
+Description: 支持最新商店版迅雷开启超级会员
+Author: 糖醋丶炒排骨
+Name: 迅雷Crack
+
 Package: com.paigu.yk
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
