@@ -864,6 +864,22 @@ Description: 激活去广告权限、无限次短视频下载、反越狱检测�
 Author: 糖醋丶炒排骨
 Name: 黑匣子player-
 
+Package: com.yourcompany.meituan
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.meituan_1.0.0-1_iphoneos-arm.deb
+Size: 2620
+MD5sum: 7521f2f7e5864646ba7e9bb9cd04fccc
+SHA1: 4d9cafadbf71577d8b6f03bc0f4fa4d6a052d782
+SHA256: 470dd54834ff0ad4b7b9d3962c1ffdb9b87d6dcdbc9bc20ca200883ed14c74ea
+Section: Tweaks
+Description: 美团众包反越狱检测，请不要安装其他屏蔽越狱软件，否则可能仍会检测到越狱。（定制插件超过付费期限，现予公开，且不再更新）
+Author: 糖醋丶炒排骨
+Name: 美团众包JBDBypass
+
 Package: libflex
 Version: 4.0.0
 Architecture: iphoneos-arm
