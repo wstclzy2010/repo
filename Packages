@@ -896,6 +896,22 @@ Description: 去除“篡改数据”弹窗、激活去广告权限、无限次�
 Author: 糖醋丶炒排骨
 Name: 黑匣子player-
 
+Package: com.yourcompany.heixiazi
+Version: 1.1.2-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.heixiazi_1.1.2-1_iphoneos-arm.deb
+Size: 3404
+MD5sum: cb25d965c6015287b468c8ed9f7636f8
+SHA1: 104876182d0c3cacfcad2b0e001b4dd27a95b892
+SHA256: 4ffb21ce8556c86ba1f6e23b16d80d0d7024985a19691e16f56258ca0c1e49ef
+Section: Tweaks
+Description: 激活去广告权限、无限次短视频下载、反越狱检测、反vpn检测、反上传用户限制数据、去除“篡改数据”弹窗（移除反调试检测代码，因为可能导致substitute用户闪退）~~~~~~~~~适用App Store最新版1.7.2
+Author: 糖醋丶炒排骨
+Name: 黑匣子player-
+
 Package: com.yourcompany.meituan
 Version: 1.0.0-1
 Architecture: iphoneos-arm
