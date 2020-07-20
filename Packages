@@ -243,6 +243,22 @@ Description: 开启会员功能、反越狱检测。打开两次应用并关闭�
 Author: 糖醋丶炒排骨
 Name: 爱阅书香Crack
 
+Package: com.paigu.mojiweather
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.paigu.mojiweather_1.0.0-1_iphoneos-arm.deb
+Size: 2878
+MD5sum: b33842a41646ce3363f604111bbe01b5
+SHA1: 0dc1b5734832dfe3b9c4d0a89257eb626307e942
+SHA256: 3ba32052538c7e9607b91e1f836f19388a4570d36524037c431bb0ff00cd7a07
+Section: Tweaks
+Description: 免登录开启会员功能
+Author: 糖醋丶炒排骨
+Name: 墨迹天气-
+
 Package: com.paigu.ngh
 Version: 1.0.2-1+debug
 Architecture: iphoneos-arm
