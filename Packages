@@ -243,6 +243,22 @@ Description: 开启会员功能、反越狱检测。打开两次应用并关闭�
 Author: 糖醋丶炒排骨
 Name: 爱阅书香Crack
 
+Package: com.paigu.ift
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.ift_1.1.0-1_iphoneos-arm.deb
+Size: 3904
+MD5sum: 01a30905614ff22ec7e8ee92f533c972
+SHA1: a7d648f4487037c1ee2e958f774738c99871686d
+SHA256: 659c684658c137ea3b87d37a663d14e907a883de94838602290495c7c46cf26a
+Section: Tweaks
+Description: 开启会员功能。打开应用然后关闭后台后手动打开“关闭格言”开关即可生效
+Author: 糖醋丶炒排骨
+Name: 爱阅书香-
+
 Package: com.paigu.mojiweather
 Version: 1.0.0-1
 Architecture: iphoneos-arm
