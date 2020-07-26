@@ -752,6 +752,22 @@ Description: 支持10.4.0最新版。去除启动广告、可开启会员功能�
 Author: 糖醋丶炒排骨
 Name: 微博+
 
+Package: com.paigu.wechatjbdbypass
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.paigu.wechatjbdbypass_0.0.1-1_iphoneos-arm.deb
+Size: 4218
+MD5sum: 650bd89dd33c0394647380f330cfcf27
+SHA1: e42c9baffe3f485b0cbb0338caf42a6354308efe
+SHA256: 455bbf4a0a9b6cf56e825dac0cdb3f6b7ca1e72b824edb6cc29911dd02bb233e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: 糖醋丶炒排骨
+Name: WeChatJBDBypass
+
 Package: com.paigu.wf
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
