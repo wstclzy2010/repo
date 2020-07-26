@@ -211,6 +211,22 @@ Description: 韩剧tv启用隐藏会员、去广告
 Author: 糖醋丶炒排骨
 Name: 韩剧tvCrack
 
+Package: com.paigu.icbcjbdbypass
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.paigu.icbcjbdbypass_1.0.0-1_iphoneos-arm.deb
+Size: 4566
+MD5sum: c20f3892a4e7035f6172517c4f2a76e4
+SHA1: 387ca127531beec4e0b8326605dc0b74fe9ea67e
+SHA256: 39a800ff816229f016a433e3cc0d15a3ca092008e74cfcdf263b5f9758e7a903
+Section: Tweaks
+Description: 反越狱检测
+Author: 糖醋丶炒排骨
+Name: 工银融e联JBDBypass
+
 Package: com.paigu.ift
 Version: 1.0.0-3
 Architecture: iphoneos-arm
