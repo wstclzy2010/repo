@@ -736,6 +736,22 @@ Description: （移除7.0.9专业版某些顽固的置顶新闻、新增去除�
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.toutiao
+Version: 2.3.5-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 288
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.paigu.toutiao_2.3.5-1_iphoneos-arm.deb
+Size: 12180
+MD5sum: 93b840c37cfcd6dbcd166d7f97207daa
+SHA1: 416609dc8125d4cf4848be25a780598421e23ee8
+SHA256: dae16a4a66fb5d39ef4744ebd4bd6571f3d585c2ac9f5bf353ef55f97e8500f8
+Section: Tweaks
+Description: （修复去除视频下方相关视频和普通版广告两者功能冲突导致崩溃或卡死的问题，修复相关视频仍有广告的问题）适配最新普通版和专业版7.8.1，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~首次安装需要在设置中找到插件“清爽今日头条”，打开所需功能的开关，并点击“关闭后台”按钮即可生效~~~~~~~
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
 Package: com.paigu.vfa
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
