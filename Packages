@@ -1120,6 +1120,21 @@ Description: 美团众包反越狱检测，请不要安装其他屏蔽越狱软�
 Author: 糖醋丶炒排骨
 Name: 美团众包JBDBypass
 
+Package: flexdecrypt
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: John Coates
+Depends: firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Filename: ./debs/flexdecrypt.deb
+Size: 816362
+MD5sum: 0e7da473ba3a3f0aef5e228bf5f5153b
+SHA1: d48b286048d7cdad4b11f9b94425fe4129a8d906
+SHA256: 505086536761c07f36dde79a851a43c32baa8b586f75140077580d94cb12a96f
+Section: Tools
+Description: Tool for decrypting iOS apps and Mach-O binaries.
+Author: John Coates
+Name: flexdecrypt
+
 Package: libflex
 Version: 4.0.0
 Architecture: iphoneos-arm
