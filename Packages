@@ -324,20 +324,20 @@ Author: 糖醋丶炒排骨
 Name: 南瓜影视Crack
 
 Package: com.paigu.rrm
-Version: 1.0.0-1
+Version: 1.1.0-1
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.paigu.rrm_1.0.0-1_iphoneos-arm.deb
-Size: 2528
-MD5sum: 1601dac7ff77e1c6d29ae9681095ba32
-SHA1: 61d53682c42ccdee0231e8582ec203483911ddb5
-SHA256: 10af4673c5aba82a70e9f1677a09527c0e683ace58258a7f68ff0250125f8289
+Filename: ./debs/com.paigu.rrm_1.1.0-1_iphoneos-arm.deb
+Size: 16686
+MD5sum: f83ab182cbeb21d9a25f5a7c32d16b2f
+SHA1: 62574ccaafb3a29257ceb622a1ca4db90dd80f28
+SHA256: 731c659360db73ddc21cece1fa13293154c07d8ef6795c44a5775b7243367cb8
 Section: Tweaks
-Description: 去除所有广告
+Description: 去除所有广告，适配4.9.1版本
 Author: 糖醋丶炒排骨
-Name: 人人视频去广告
+Name: 人人视频-
 
 Package: com.paigu.tb
 Version: 0.0.1-2+debug
