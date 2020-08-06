@@ -68,54 +68,6 @@ Author: 糖醋丶炒排骨
 Name: 爱美剧去广告
 
 Package: com.paigu.bili
-Version: 1.0.2-2+debug
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 180
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.bili_1.0.2-2+debug_iphoneos-arm.deb
-Size: 7276
-MD5sum: 6fa8ab094beab3964f07d31fd98df500
-SHA1: 57cf7dd1e5630416eaac32b56bd899590818972f
-SHA256: 356718de4eb9c611d0006ccbf4fa2442e9d241e4a4ff164f293995011d15f544
-Section: Tweaks
-Description: 适用最新版5.58.1。自动跳过启动广告（如果有）；去除青少年模式弹窗；去掉首页顶部横幅、首页广告卡片；去掉视频下方广告、活动推荐；普通视频可启用会员画质
-Author: 糖醋丶炒排骨
-Name: 哔哩哔哩去广告
-
-Package: com.paigu.bili
-Version: 1.0.3-2+debug
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 180
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.bili_1.0.3-2+debug_iphoneos-arm.deb
-Size: 7866
-MD5sum: 1040e603c0046953c5c8e9be08cf2be1
-SHA1: 563a55d36e157aa0b03715c13efc8b577a11e5d7
-SHA256: 23279483e070209b96cce1775ba9bb432193c5b778ce4880ddb92fa8df9fcc03
-Section: Tweaks
-Description: 适用最新版5.58.1。自动跳过启动广告（如果有）；去除好评弹窗；去除青少年模式弹窗；去掉首页顶部横幅、首页广告卡片；去掉视频下方广告、活动推荐、游戏推荐；普通视频可启用会员画质
-Author: 糖醋丶炒排骨
-Name: 哔哩哔哩去广告
-
-Package: com.paigu.bili
-Version: 1.1.0-1
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 184
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.bili_1.1.0-1_iphoneos-arm.deb
-Size: 40380
-MD5sum: f3f3bf58f753200a82a14fe54bcab1c4
-SHA1: 2ebaabd0b1a7870ecb1878a8ab5877a65f033e71
-SHA256: 596690af9cae51797968b7e69fbfdafbe994908b562d1801810f6f993d36291b
-Section: Tweaks
-Description: 适配最新版6.6.1。自动跳过启动广告；去除好评弹窗；去除青少年模式弹窗；去掉首页顶部横幅、首页广告卡片；去掉视频下方广告、活动推荐、游戏推荐、up主推荐广告；普通视频可启用会员画质。（修复点开某些视频闪退的问题）
-Author: 糖醋丶炒排骨
-Name: 哔哩哔哩-
-
-Package: com.paigu.bili
 Version: 1.1.0-2
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
@@ -228,20 +180,20 @@ Author: 糖醋丶炒排骨
 Name: HttpCatcher解锁
 
 Package: com.paigu.hjtv
-Version: 0.0.1-1+debug
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
-Installed-Size: 204
+Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.paigu.hjtv_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5378
-MD5sum: 21de30e12b6eac6c0f100018b2bab4bb
-SHA1: 690add9ea3cd6ddf9e327ee8161ab162a45d5bf2
-SHA256: f2adac1b1e0bf089237e97cdf9ad5efe3fb818f0e8023de666877d6fdbe852b7
+Filename: ./debs/com.paigu.hjtv_1.0.1-1_iphoneos-arm.deb
+Size: 19784
+MD5sum: 8bddcc8a9a3d5b0d91e46bd09877b675
+SHA1: 4d1e6e58c64f329daca8f504b9abebe0ae5fe48e
+SHA256: 7bbd6e5f39b039693a6bc5eda91264280c7db757462a2205f616120a163b7a42
 Section: Tweaks
-Description: 韩剧tv启用隐藏会员、去广告
+Description: 韩剧tv启用隐藏会员、去广告，适配5.2.9最新版
 Author: 糖醋丶炒排骨
-Name: 韩剧tvCrack
+Name: 韩剧TV+
 
 Package: com.paigu.icbcjbdbypass
 Version: 1.0.0-1
