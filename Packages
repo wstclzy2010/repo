@@ -753,34 +753,18 @@ Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
 Package: com.paigu.toutiao
-Version: 3.0.0-1
+Version: 3.1.0-1
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
-Installed-Size: 168
+Installed-Size: 1020
 Depends: mobilesubstrate
-Filename: ./debs/com.paigu.toutiao_3.0.0-1_iphoneos-arm.deb
-Size: 17184
-MD5sum: 98e9eebfc2455f398b8faf8d44f3b30a
-SHA1: 599da793423023f78185b6a1bbec4602ff2fc166
-SHA256: 30bd870658ddbe29c6aa089ecee3ff106b3f906029c131a5cd39172e9c124fed
+Filename: ./debs/com.paigu.toutiao_3.1.0-1_iphoneos-arm.deb
+Size: 355028
+MD5sum: 4705fe793371468d6b05d22232bbf35f
+SHA1: 10ed438b53eccbdf0a2a45624555d0e6b1289480
+SHA256: 715b4acd754c57803d8f2f5b64e686dd37bf079d4692c91d97d932acfd2a7622
 Section: Tweaks
-Description: （较大的更新：重构了大量代码、插件设置项移至头条应用内的”系统设置“下方，不再依赖preferenceLoader；7.0.9旧版则直接可在”我的“界面下方找到插件入口）适配最新普通版和专业版7.8.2，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~安装后需要在应用内的”系统设置“中点击最下方的“清爽今日头条”，打开所需功能的开关，并点击“关闭后台”按钮重新进入应用即可生效~~~~~~~
-Author: 糖醋丶炒排骨
-Name: 清爽今日头条
-
-Package: com.paigu.toutiao
-Version: 3.0.1-1
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.toutiao_3.0.1-1_iphoneos-arm.deb
-Size: 17222
-MD5sum: 3ca5db188b8342a9737412950d203142
-SHA1: fc5a9093feb2f825a37d41a134a029ac91c0079a
-SHA256: 7f2f0dfc006c3a2bdf395fa13bffe2e01788245386a37c9a64ab2651a83b515d
-Section: Tweaks
-Description: （修复新版已登录用户未出现插件入口的问题；较大的更新：重构了大量代码、插件设置项移至头条应用内的”系统设置“下方，不再依赖preferenceLoader；7.0.9旧版则直接可在”我的“界面下方找到插件入口）适配最新普通版和专业版7.8.2，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~安装后需要在应用内的”系统设置“中点击最下方的“清爽今日头条”，打开所需功能的开关，并点击“关闭后台”按钮重新进入应用即可生效~~~~~~~
+Description: （设置项开关已更新为热开关，即不需要关闭应用即可生效）适配最新普通版和专业版7.8.3，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~安装后需要在应用内的”系统设置“中点击最下方的“清爽今日头条”，打开所需功能的开关，并点击“关闭后台”按钮重新进入应用即可生效~~~~~~~
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
