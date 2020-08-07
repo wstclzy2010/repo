@@ -737,34 +737,18 @@ Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
 Package: com.paigu.toutiao
-Version: 3.1.0-1
+Version: 3.2.0-4
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
 Installed-Size: 1020
 Depends: mobilesubstrate
-Filename: ./debs/com.paigu.toutiao_3.1.0-1_iphoneos-arm.deb
-Size: 355028
-MD5sum: 4705fe793371468d6b05d22232bbf35f
-SHA1: 10ed438b53eccbdf0a2a45624555d0e6b1289480
-SHA256: 715b4acd754c57803d8f2f5b64e686dd37bf079d4692c91d97d932acfd2a7622
+Filename: ./debs/com.paigu.toutiao_3.2.0-4_iphoneos-arm.deb
+Size: 369978
+MD5sum: 8484749569d81d0cfa897f51456776d4
+SHA1: 496e209c52d82c8dd4e7b9de1bb162ffd948e40c
+SHA256: 919a273cd51c090388f1a3ee9537dd6ed9238e3fb9d9d240adf45e774939a358
 Section: Tweaks
-Description: （设置项开关已更新为热开关，即不需要关闭应用即可生效）适配最新普通版和专业版7.8.3，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~安装后需要在应用内的”系统设置“中点击最下方的“清爽今日头条”，打开所需功能的开关，并点击“关闭后台”按钮重新进入应用即可生效~~~~~~~
-Author: 糖醋丶炒排骨
-Name: 清爽今日头条
-
-Package: com.paigu.toutiao
-Version: 3.1.1-1
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 1020
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.toutiao_3.1.1-1_iphoneos-arm.deb
-Size: 364576
-MD5sum: 946a880be02d7e68380a194c8ac9e46f
-SHA1: 05bbec41ade6f0e7724cc6a59d8717d665e2f05e
-SHA256: 24c1a9ca5dce080c88d7718bcb1e61dfa1b3335641925c32b35b72a85b1e13e5
-Section: Tweaks
-Description: （修复了放映厅电影没有声音的问题）适配最新普通版和专业版7.8.3，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~首次安装后需要在“头条应用内”的”系统设置“中点击下方的“清爽今日头条”，打开所需功能的开关后立即生效，插件选项为热开关，无需关闭应用~~~~~~~
+Description: （修复7.8.3普通版版本首页和西瓜视频页仍有广告的问题、修复去除相关文章和相关搜索在新版本上失效的问题，去除普通版已知的所有广告）适配最新普通版和专业版7.8.3，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~~~~~~~~~~首次安装后需要在“头条应用”内的”系统设置“中点击下方的“清爽今日头条”，打开所需功能的开关后应当立即生效(某些选项由于只调用一次或者存在缓存导致没有立即生效的话，也可以点击关闭“关闭头条应用”重新进入应用以生效)~~~~~~~~~~~~~~~~
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
