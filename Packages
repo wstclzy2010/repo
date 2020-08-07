@@ -752,6 +752,22 @@ Description: （设置项开关已更新为热开关，即不需要关闭应用�
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.toutiao
+Version: 3.1.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 1020
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.toutiao_3.1.1-1_iphoneos-arm.deb
+Size: 364576
+MD5sum: 946a880be02d7e68380a194c8ac9e46f
+SHA1: 05bbec41ade6f0e7724cc6a59d8717d665e2f05e
+SHA256: 24c1a9ca5dce080c88d7718bcb1e61dfa1b3335641925c32b35b72a85b1e13e5
+Section: Tweaks
+Description: （修复了放映厅电影没有声音的问题）适配最新普通版和专业版7.8.3，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~首次安装后需要在“头条应用内”的”系统设置“中点击下方的“清爽今日头条”，打开所需功能的开关后立即生效，插件选项为热开关，无需关闭应用~~~~~~~
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
 Package: com.paigu.vfa
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
