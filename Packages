@@ -292,49 +292,19 @@ Author: 糖醋丶炒排骨
 Name: 人人视频-
 
 Package: com.paigu.tb
-Version: 0.0.1-2+debug
+Version: 1.5.0-1
 Architecture: iphoneos-arm
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/com.paigu.tb_0.0.1-2+debug_iphoneos-arm.deb
-Size: 3502
-MD5sum: b59dbb4bbb37d6627424b33934b4c4d0
-SHA1: ed78efaa55f9625e97a7c541745d8869e9d123c9
-SHA256: c9fe66a7c94ed6b6c25169e1ba4b4352f9a380f12c401884d10a1775fe69bb6e
+Filename: ./debs/com.paigu.tb_1.5.0-1_iphoneos-arm.deb
+Size: 25384
+MD5sum: 10ad419806baca7ec85cf0b3915c5b5c
+SHA1: 38c0487c807f6183db5167f0a9abdc23124da1ec
+SHA256: 27927b3f0cedafcc011e8dc586e6359a44fb61aa2c4b0d80ae09dddd9e8904fd
 Section: Tweaks
-Description: 去掉百度贴吧首页的直播内容。这个只能写插件了，通过数组的valueforkey方法去掉直播内容。其他广告可用flex3去除。仅作为自用，应该适合所有版本的贴吧。
+Description: （适用至最新内测版11.7.3）移除：首页顶部横幅推广、首页的直播内容、帖子内部吧名显示、帖子内部直播推荐；一条方法干掉feed流广告和帖子内部广告以及尝试去除启动广告（还没碰到）
 Author: 糖醋丶炒排骨
-Name: 贴吧NoAla
-
-Package: com.paigu.tb
-Version: 0.0.2-2+debug
-Architecture: iphoneos-arm
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.tb_0.0.2-2+debug_iphoneos-arm.deb
-Size: 3708
-MD5sum: 285c16ea8b5fc365965fdabec407d04b
-SHA1: 569e0c100b38c435cd0842d2514e7235dad4793e
-SHA256: 333096e04ef984c2f1363799e074144769ab94cb95e45487689942fc2beed736
-Section: Tweaks
-Description: 去掉首页顶部横幅推广、去掉百度贴吧首页的直播内容。这个只能写插件了，通过数组的valueforkey方法去掉直播内容。其他广告包括新版本弹窗均可用flex3去除。
-Author: 糖醋丶炒排骨
-Name: 贴吧NoAla
-
-Package: com.paigu.tb
-Version: 1.0.0-2
-Architecture: iphoneos-arm
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.tb_1.0.0-2_iphoneos-arm.deb
-Size: 3742
-MD5sum: b607bf6c405b546e6cceb289b824fb2d
-SHA1: fbd7838c86f54879da1ac8c0c0c7826968a09a1d
-SHA256: 6d0a28bf4c0fe7b06dc98aef633f96da425be3794627445a8efd92ca33c0bdb2
-Section: Tweaks
-Description: （适用最新版11.5.3）首页顶部横幅推广、去掉百度贴吧首页的直播内容、一条方法去掉feed流广告和帖子方法广告、精简”我的“页面
-Author: 糖醋丶炒排骨
-Name: 贴吧去广告
+Name: 百度贴吧-
 
 Package: com.paigu.toutiao
 Version: 1.0.4-1+debug
