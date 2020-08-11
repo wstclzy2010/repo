@@ -147,6 +147,22 @@ Description: 无痕移除：启动广告、首页横幅广告、首页卡片广�
 Author: 糖醋丶炒排骨
 Name: 虎牙直播-
 
+Package: com.paigu.huya
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.huya_1.0.1-1_iphoneos-arm.deb
+Size: 16488
+MD5sum: 59258ca3d73970e20266397683b75a72
+SHA1: 8568b16af8bcddb03a0994bb600ffaac03fe68d2
+SHA256: a668e2cd2ae63c5e3664e743a1cf8f3ef0786108e1b192828bda2b0a0379e11e
+Section: Tweaks
+Description: 无痕移除：启动广告、首页横幅广告、首页卡片广告、直播间悬浮广告、直播间推广贴图、直播间活动横幅
+Author: 糖醋丶炒排骨
+Name: 虎牙直播-
+
 Package: com.paigu.icbcjbdbypass
 Version: 1.0.0-1
 Architecture: iphoneos-arm
