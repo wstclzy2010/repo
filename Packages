@@ -787,20 +787,20 @@ Author: 糖醋丶炒排骨
 Name: 微博+
 
 Package: com.paigu.wechatjbdbypass
-Version: 0.0.1-1
+Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.paigu.wechatjbdbypass_0.0.1-1_iphoneos-arm.deb
-Size: 4218
-MD5sum: 650bd89dd33c0394647380f330cfcf27
-SHA1: e42c9baffe3f485b0cbb0338caf42a6354308efe
-SHA256: 455bbf4a0a9b6cf56e825dac0cdb3f6b7ca1e72b824edb6cc29911dd02bb233e
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wechatjbdbypass_1.0.0-1_iphoneos-arm.deb
+Size: 18894
+MD5sum: 44c48fd116dbcc1007c011686e291c43
+SHA1: 84d11fe1c1ab816a4414333b30a2060841b6ece2
+SHA256: 1700fe5fbe1999853549a6308163f14a09c290498a4793bc80ccb2201126aab4
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: 加强反越狱检测、防封。微信有个隔天检测机制，假如今天检测过一次越狱后，它会超过24小时后再次检测并上传用户数据（这里的反越狱检测并不是可以用面容指纹支付那么简单的做法，反越狱检测对大号没有意义（最多能用面容指纹），因为不管你屏蔽不屏蔽不管装了多少个插件大号都不会被封。为此我专门注册了一个小号，没有装任何插件的时候登录后第二天被封，解封后安装此插件测试已达7天，小号生龙活虎，所以现更新上传此插件）（虽然我的源没几个人用，但是这里预告一下，之后会有新插件WeChatHookLite上传）
 Author: 糖醋丶炒排骨
-Name: WeChatJBDBypass
+Name: 微信JBDBypass
 
 Package: com.paigu.wf
 Version: 0.0.1-1+debug
