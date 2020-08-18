@@ -787,18 +787,18 @@ Author: 糖醋丶炒排骨
 Name: 微信JBDBypass
 
 Package: com.paigu.wf
-Version: 0.0.1-1+debug
+Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
-Installed-Size: 168
+Installed-Size: 72
 Depends: mobilesubstrate
-Filename: ./debs/com.paigu.wf_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3170
-MD5sum: 8aa150acbc902ee6059978b1bc5bc722
-SHA1: 341cff6b893c9acd8e28833c7c304695dbb4a783
-SHA256: 8263836329d96b168743bf4fcc1b2a73b1fde718ebd96f5670d59f3519ad1134
+Filename: ./debs/com.paigu.wf_1.0.0-1_iphoneos-arm.deb
+Size: 7356
+MD5sum: ac5daff29547570bbbb4c185169aa88c
+SHA1: 464654931fe2f4b46784a87457e3fc4fdbb1c846
+SHA256: cd71fb4c2dd66f39db02e102a9d7584bdc6ff048ad91dfe86a8b3036830b0078
 Section: Tweaks
-Description: 两条方法去掉所有广告。思路是hook请求广告的URL
+Description: 去除所有广告，适配最新内测版6.0
 Author: 糖醋丶炒排骨
 Name: 威锋去广告
 
