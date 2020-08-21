@@ -323,6 +323,22 @@ Description: 去除所有广告，适配4.10.1版本
 Author: 糖醋丶炒排骨
 Name: 人人视频-
 
+Package: com.paigu.shanqiureader
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.shanqiureader_1.0.0-1_iphoneos-arm.deb
+Size: 3788
+MD5sum: 75ca2de1b5c4f8c52aad36f12980af5d
+SHA1: 014a597f5330955682003af9e3b061cfd3bbb622
+SHA256: 628e4dee71ae4d0396f2fef0ec31186f2e985f8b3d29e059a0edf030143fb052
+Section: Tweaks
+Description: 开启会员功能
+Author: 糖醋丶炒排骨
+Name: 山丘阅读器+
+
 Package: com.paigu.tb
 Version: 1.5.0-1
 Architecture: iphoneos-arm
