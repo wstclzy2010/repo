@@ -99,6 +99,22 @@ Description: (修复最新版12.2.0消息页面仍有广告的问题)去除所�
 Author: 糖醋丶炒排骨
 Name: 抖音-
 
+Package: com.paigu.dy
+Version: 1.3.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.dy_1.3.0-1_iphoneos-arm.deb
+Size: 26186
+MD5sum: 5beef1dbb6a2f177690016ed9ec7521f
+SHA1: 8b28417a4dc31087922df2318ece1c3954c77e40
+SHA256: fad6ec1ef9453d38583e1e6c8850463bf07525cf5771e60378d92c17ea289c51
+Section: Tweaks
+Description: (适配最新版12.5.0，移除新增的消息页面横幅、完美移除“我”页面“点击开拍”、修复某些情况仍有广告的问题)去除所有广告
+Author: 糖醋丶炒排骨
+Name: 抖音-
+
 Package: com.paigu.hc
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
