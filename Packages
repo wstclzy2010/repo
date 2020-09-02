@@ -195,6 +195,22 @@ Description: 反越狱检测
 Author: 糖醋丶炒排骨
 Name: 工银融e联JBDBypass
 
+Package: com.paigu.icbcjbdbypass
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.icbcjbdbypass_1.1.0-1_iphoneos-arm.deb
+Size: 5930
+MD5sum: 4172735065cb336400c94fcf7d5d13dd
+SHA1: ac68d8d5d983f491eef69d20e3f320f9934292fc
+SHA256: 4eb1ebe2345564b22e1fbf25732daa93231cbfd0f314a3c42ed303bcf09f0f85
+Section: Tweaks
+Description: 中国工商银行+工银融e联反越狱检测
+Author: 糖醋丶炒排骨
+Name: 工银融e联+工商银行JBDBypass
+
 Package: com.paigu.ift
 Version: 1.0.0-3
 Architecture: iphoneos-arm
