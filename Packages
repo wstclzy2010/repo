@@ -834,6 +834,22 @@ Description: 支持10.4.0最新版。去除启动广告、可开启会员功能�
 Author: 糖醋丶炒排骨
 Name: 微博+
 
+Package: com.paigu.wechathooklite
+Version: 0.0.2-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 560
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wechathooklite_0.0.2-1_iphoneos-arm.deb
+Size: 178586
+MD5sum: 4d072519da206b767dacc7f91851b326
+SHA1: 81ed8857e340ed57045c90067898aa06b87ec976
+SHA256: 6e8bbdad86f53afe737c1b3ba1ba2859a9ba691a946f1967a171d0565906d36d
+Section: Tweaks
+Description: 微信助手轻量版，基于7.0.15版本微信开发。此版本作为早期测试以及预览。
+Author: 糖醋丶炒排骨
+Name: WeChatHookLite
+
 Package: com.paigu.wechatjbdbypass
 Version: 1.0.0-1
 Architecture: iphoneos-arm
