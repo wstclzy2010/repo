@@ -866,6 +866,22 @@ Description: (优化了深色模式下设置项文字颜色的alpha值，使字�
 Author: 糖醋丶炒排骨
 Name: WeChatHookLite
 
+Package: com.paigu.wechathooklite
+Version: 0.0.3-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 592
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wechathooklite_0.0.3-2_iphoneos-arm.deb
+Size: 193340
+MD5sum: 65c5346e7b274223ecee16836e7ed882
+SHA1: 192f588bc5ef67d8b9a1344efafb6a325659a77e
+SHA256: 14b23e90e9f1d2738e812dc7729181dfbbc80948401a8b7f71b2b1d15877d4c5
+Section: Tweaks
+Description: 微信助手轻量版，基于7.0.15版本微信开发。此版本仅作为早期测试及预览，有任何建议或者问题烦请在微博留言或者私信。
+Author: 糖醋丶炒排骨
+Name: WeChatHookLite
+
 Package: com.paigu.wechatjbdbypass
 Version: 1.0.0-1
 Architecture: iphoneos-arm
