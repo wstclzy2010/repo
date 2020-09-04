@@ -850,6 +850,22 @@ Description: 微信助手轻量版，基于7.0.15版本微信开发。此版本�
 Author: 糖醋丶炒排骨
 Name: WeChatHookLite
 
+Package: com.paigu.wechathooklite
+Version: 0.0.2-3
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 544
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wechathooklite_0.0.2-3_iphoneos-arm.deb
+Size: 174240
+MD5sum: 5ab07b2ca1ce180740eecbe6a326cfff
+SHA1: e0726a6502a74c8ceb282a129b55f1b5533a7b44
+SHA256: 0bc195fcdd51578e83348aa7194996d705269e8deedd48b83c272362d2c16947
+Section: Tweaks
+Description: (优化了深色模式下设置项文字颜色的alpha值，使字体颜色与原生深色模式白色文字一致)微信助手轻量版，基于7.0.15版本微信开发。此版本作为早期测试以及预览。
+Author: 糖醋丶炒排骨
+Name: WeChatHookLite
+
 Package: com.paigu.wechatjbdbypass
 Version: 1.0.0-1
 Architecture: iphoneos-arm
