@@ -402,6 +402,22 @@ Description: （适用至最新11.8.1，修复仍有启动广告的问题）移�
 Author: 糖醋丶炒排骨
 Name: 百度贴吧-
 
+Package: com.paigu.tb
+Version: 1.6.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.tb_1.6.0-1_iphoneos-arm.deb
+Size: 12944
+MD5sum: ab303a40782ec5e043cf04aca5c0f22a
+SHA1: 8b5b8a027cccc2774e7822dab3aa2e7e2a2968b5
+SHA256: 632554546c1091953a32c091100508d44cf04238efd5a1d767f6cb79caab3afc
+Section: Tweaks
+Description: （适用至最新11.8.6，修复视频下方简介布局错乱的问题）移除：首页顶部横幅推广、首页的直播内容、帖子内部吧名显示、帖子内部直播推荐；一条方法干掉feed流广告和帖子内部广告以及去除启动广告
+Author: 糖醋丶炒排骨
+Name: 百度贴吧-
+
 Package: com.paigu.toutiao
 Version: 1.0.4-1+debug
 Architecture: iphoneos-arm
