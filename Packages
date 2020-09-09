@@ -818,6 +818,22 @@ Description: （适配7.9.0内测版深色模式）适配最新普通版和专�
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.toutiao
+Version: 3.3.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 624
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.toutiao_3.3.1-1_iphoneos-arm.deb
+Size: 200016
+MD5sum: 2ff18248ce205e154b26ce29cc6c476c
+SHA1: 58fc7c682f0718581e3f1ea8bc8d1cfe82d2a033
+SHA256: fa00fdcc85fe0885f346c4effed39d14091fc4fe680d2b4e2e8f02e89ebdf665
+Section: Tweaks
+Description: （适配内测版7.9.0深色模式，修复：去启动广告、推荐页cell广告、关闭小视频流量提醒等在内测版失效的问题）适配最新内测普通版7.9.0和专业版7.8.3，整体基于专业版7.0.9开发。~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~~~~~~~~~~首次安装后需要在“头条应用”内的”我“中点击下方的“清爽今日头条”，打开所需功能的开关后应当立即生效(某些选项由于只调用一次或者存在缓存导致没有立即生效的话，也可以点击关闭“关闭头条应用”重新进入应用以生效)~~~~~~~~~~~~~~~~
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
 Package: com.paigu.vfa
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
