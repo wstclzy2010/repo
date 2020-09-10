@@ -323,6 +323,22 @@ Description: 历史天天听、南瓜礼品商店版，开启会员，去掉所�
 Author: 糖醋丶炒排骨
 Name: 南瓜影视Crack
 
+Package: com.paigu.nopanicforwebkit
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.nopanicforwebkit_1.0.0-1_iphoneos-arm.deb
+Size: 3536
+MD5sum: 18e72d06f522795a7245502ff03269a1
+SHA1: dfae6b74e99c6a206e6e4571284ea21c4e570271
+SHA256: 0edc6c6af5683ab9b5315053585271a6b60b6c41c402d561018446fb0616aef2
+Section: Tweaks
+Description: 修复由于libhooker注入WebKit导致“unexpected exec of non-platform binary: \/System\/Library\/Frameworks\/WebKit.framework\/XPCServices\/com.apple.WebKit.Networking.xpc\/com.apple.WebKit.Networking”的系统崩溃重启现象
+Author: 糖醋丶炒排骨
+Name: NoPanicForWebKit
+
 Package: com.paigu.rrm
 Version: 1.1.0-1
 Architecture: iphoneos-arm
