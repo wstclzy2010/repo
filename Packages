@@ -330,12 +330,12 @@ Maintainer: 糖醋丶炒排骨
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.paigu.nopanicforwebkit_1.0.0-1_iphoneos-arm.deb
-Size: 3536
-MD5sum: 18e72d06f522795a7245502ff03269a1
-SHA1: dfae6b74e99c6a206e6e4571284ea21c4e570271
-SHA256: 0edc6c6af5683ab9b5315053585271a6b60b6c41c402d561018446fb0616aef2
+Size: 3528
+MD5sum: 759477fdfa712f2f1bc8bfe7b4c24bdb
+SHA1: 38d995278c4896353d5b774090ea260273c6b04a
+SHA256: 63cc1c7153011e2c0f51b9f8306114b90277c0cfa65089af80f64c96d3343b39
 Section: Tweaks
-Description: 修复由于libhooker注入WebKit导致“unexpected exec of non-platform binary: \/System\/Library\/Frameworks\/WebKit.framework\/XPCServices\/com.apple.WebKit.Networking.xpc\/com.apple.WebKit.Networking”的系统崩溃重启现象
+Description: 修复由于libhooker注入WebKit导致“unexpected exec of non-platform binary: /System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking”的系统崩溃重启现象
 Author: 糖醋丶炒排骨
 Name: NoPanicForWebKit
 
