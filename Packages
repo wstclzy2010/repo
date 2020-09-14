@@ -482,6 +482,22 @@ Description: 同花顺最新版10.60.50去广告
 Author: 糖醋丶炒排骨
 Name: 同花顺-
 
+Package: com.paigu.tonhuashun
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.tonhuashun_1.0.1-1_iphoneos-arm.deb
+Size: 15064
+MD5sum: 4eff013043ea8e67313e347e7b8197cf
+SHA1: a7d59e0725608179961bc458c426c864d35ea7ac
+SHA256: 232a8b81b15a87ef739237f21ee8178dbb57b6219df69b61f849c126262e7269
+Section: Tweaks
+Description: 同花顺最新版10.60.50去feed流广告、去启动广告
+Author: 糖醋丶炒排骨
+Name: 同花顺-
+
 Package: com.paigu.toutiao
 Version: 1.0.4-1+debug
 Architecture: iphoneos-arm
