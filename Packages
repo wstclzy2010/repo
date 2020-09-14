@@ -466,6 +466,22 @@ Description: （适用至最新11.8.6，修复视频下方简介布局错乱的�
 Author: 糖醋丶炒排骨
 Name: 百度贴吧-
 
+Package: com.paigu.tonhuashun
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.tonhuashun_1.0.0-1_iphoneos-arm.deb
+Size: 9808
+MD5sum: 5a2363efd11a95002616b1b8e15fe9e4
+SHA1: b7f987ff0027b5964e10fbd3dd5d6552d935a3b9
+SHA256: f00b898324ebab401a2ec0bb850bc22303e66f0a161073a28eadf03628c64679
+Section: Tweaks
+Description: 同花顺最新版10.60.50去广告
+Author: 糖醋丶炒排骨
+Name: 同花顺-
+
 Package: com.paigu.toutiao
 Version: 1.0.4-1+debug
 Architecture: iphoneos-arm
