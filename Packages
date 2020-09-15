@@ -35,6 +35,22 @@ Author: creantan/P.Y.G
 Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
 Name: LookinLoader
 
+Package: com.paigu.alipay
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.alipay_1.0.0-1_iphoneos-arm.deb
+Size: 6738
+MD5sum: 5bcbb5eec49cc3b84f9a29cddbfb8ed4
+SHA1: fadb6b2e4addb446eed0b1a3fd31a103b7e1af46
+SHA256: 7f7f82a70395141ce57d6fd0ee5e6d4a018775149db26075ae31f2f85fca3032
+Section: Tweaks
+Description: unc0ver越狱环境下的支付宝反越狱检测
+Author: 糖醋丶炒排骨
+Name: 支付宝JBDBypass
+
 Package: com.paigu.amj
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
