@@ -1090,6 +1090,22 @@ Description: 去除所有广告，适配最新内测版6.0
 Author: 糖醋丶炒排骨
 Name: 威锋去广告
 
+Package: com.paigu.wzryjbdbypass
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wzryjbdbypass_1.0.0-1_iphoneos-arm.deb
+Size: 22976
+MD5sum: 74044c3f5b72578a3a75fb8e7f428e26
+SHA1: d2833d766a9c5c1ab3ba0ab579688268a57ed7c7
+SHA256: 57d382a7c702edd299ab0e6f57e9e858e17cac3e49cb33b3bcbd358f89fd1709
+Section: Tweaks
+Description: 王者荣耀反越狱检测
+Author: 糖醋丶炒排骨
+Name: 王者荣耀JBDBypass
+
 Package: com.paigu.xm
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
