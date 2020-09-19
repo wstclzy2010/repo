@@ -1042,6 +1042,22 @@ Description: 支持10.9.1最新版。去除启动广告、去除关注页/推荐
 Author: 糖醋丶炒排骨
 Name: 微博+
 
+Package: com.paigu.wbjad
+Version: 1.2.0-2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wbjad_1.2.0-2_iphoneos-arm.deb
+Size: 26924
+MD5sum: cd07d922d70654d41e5660f8e616057c
+SHA1: 7175ed0949269a36fe1c93e146c6a428629cc708
+SHA256: 0d39b67c1d58fe5af0d9c62ac00b8fdc21bd00129e5fb53c9332b02921046554
+Section: Tweaks
+Description: (修复“我”和“关注”页面显示和点击事件错乱的问题，新增去除评论区评论广告)支持10.9.1最新版。去除启动广告、去除关注页/推荐页feed流广告、去除评论区顶部广告/评论广告、去除发现页滚动横幅、方格按钮、可开启会员功能——特别关注微博实时通知
+Author: 糖醋丶炒排骨
+Name: 微博+
+
 Package: com.paigu.wechathooklite
 Version: 0.0.2-1
 Architecture: iphoneos-arm
