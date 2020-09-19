@@ -1,8 +1,8 @@
 #!/bin/bash
-dpkg-scanpackages -m ./debs > ./Packages
-bzip2 -fks ./Packages
+# dpkg-scanpackages -m ./debs > ./Packages
+# bzip2 -fks ./Packages
 
-echo "生成成功！"
+# echo "生成成功！"
 
 
 echo "搜索.DS_Store文件並顯示並刪除它們"
