@@ -115,6 +115,22 @@ Description: 去论坛广告
 Author: 糖醋丶炒排骨
 Name: 汽车之家-
 
+Package: com.paigu.batterypercentage
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.batterypercentage_1.0.0-1_iphoneos-arm.deb
+Size: 5206
+MD5sum: 56225ff853ca468e6db37a9f71f6e3dc
+SHA1: c15089b266f6dd00eecb3eda9656593991a39725
+SHA256: 5eb284043fd1b0d9b1059474081f7e5e1719424e6cfd8d2fc48cb730d60a866b
+Section: Tweaks
+Description: 为Face ID设备开启原生电量百分比，支持A12+设备。超轻量，没有其它美化，无设置项，需要注销以生效
+Author: 糖醋丶炒排骨
+Name: 原生电量百分比
+
 Package: com.paigu.bili
 Version: 1.1.0-2
 Architecture: iphoneos-arm
