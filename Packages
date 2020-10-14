@@ -179,6 +179,22 @@ Description: (适配最新版12.5.0，移除新增的消息页面横幅、完美
 Author: 糖醋丶炒排骨
 Name: 抖音-
 
+Package: com.paigu.dy
+Version: 1.4.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.dy_1.4.0-1_iphoneos-arm.deb
+Size: 20770
+MD5sum: 5f20745c2ec6161fcee8ab96f26d032c
+SHA1: 0540123bce89bb0ae7da41fc2f4347648468c12b
+SHA256: 44c9737df8059c82f222cf4d6993809b9ca692a5fb851939f43ba30092279218
+Section: Tweaks
+Description: (适配最新版13.1.0，新增无水印保存视频)去除所有广告、无水印保存视频
+Author: 糖醋丶炒排骨
+Name: 抖音-
+
 Package: com.paigu.hc
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
