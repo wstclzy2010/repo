@@ -227,6 +227,22 @@ Description: (适配最新版13.1.0，修复bug)去除所有广告、无水印�
 Author: 糖醋丶炒排骨
 Name: 抖音-
 
+Package: com.paigu.dy
+Version: 1.5.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.dy_1.5.1-1_iphoneos-arm.deb
+Size: 27386
+MD5sum: fdf35000355cfca60811dae1c97ca696
+SHA1: e699ba6bbb6cc97b8e99f16ecd69de25b07ac0d0
+SHA256: a4dee25599e405e7c9b9cd8b84e7fff1a7bdbae34ee6cd0a0fdefd65c0f81cc4
+Section: Tweaks
+Description: (适配最新版13.1.0，新增：移除下载限制，无视作者关闭下载功能)去除所有广告、无水印保存视频
+Author: 糖醋丶炒排骨
+Name: 抖音-
+
 Package: com.paigu.hc
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm

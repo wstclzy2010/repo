@@ -5,13 +5,13 @@
 # echo "生成成功！"
 
 
-echo "搜索.DS_Store文件並顯示並刪除它們"
+echo "搜索.DS_Store文件并刪除它們"
 find ./ -iname ".DS_Store" -exec rm {}  \;
 echo ".DS_Store 文件已刪除"
-echo "開始重新壓縮deb"
+echo "开始重新压缩deb"
 dpkg-scanpackages -m . /dev/null >Packages
-echo "完成壓縮deb"
+echo "完成压缩deb"
 rm ./Packages.bz2
 echo "刪除Paackages.bz2"
 bzip2 -fks Packages
-echo "重新產生Paackages.bz2完成"
+echo "重新产生Paackages.bz2完成"
