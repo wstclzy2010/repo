@@ -1106,6 +1106,22 @@ Description: （修复了一些问题）适配TestFlight普通测试版7.9.3、�
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.toutiao
+Version: 3.6.0
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.toutiao_3.6.0_iphoneos-arm.deb
+Size: 48512
+MD5sum: d9c51c21b78f077c3e5c8b3fd9c2a614
+SHA1: 3bdd1be4141879781498503f380f5b374dc9d5db
+SHA256: c2c59f563a10544a236e359d5aaa9c7e06efbe42132cc5984b3db620f60dd286
+Section: Tweaks
+Description: （新增无水印保存小视频）预适配TestFlight普通测试版7.9.5、普通版/专业版7.9.3~~~~~~~~可选：去掉普通版大部分广告、去掉头条专业版和普通版的流量提醒、置顶新闻、文章下的相关搜索以及首页的直播推荐、小程序；去掉专业版文章下的相关文章和相关圈子、视频下的相关视频、顶部热搜文字、关注页推荐关注、移除状态栏的活动或节日横幅。~~~~~~~~~~~~~~~~首次安装后需要在“头条应用”内的”我“中点击下方的“清爽今日头条”，打开所需功能的开关后应当立即生效(某些选项由于只调用一次或者存在缓存导致没有立即生效的话，也可以点击关闭“关闭头条应用”重新进入应用以生效)~~~~~~~~~~~~~~~~
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
 Package: com.paigu.vfa
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
