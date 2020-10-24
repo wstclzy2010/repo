@@ -115,6 +115,22 @@ Description: 去论坛广告
 Author: 糖醋丶炒排骨
 Name: 汽车之家-
 
+Package: com.paigu.autohome
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.autohome_1.0.2_iphoneos-arm.deb
+Size: 17394
+MD5sum: be7b1d9f20d211f21c733489ed6be5a2
+SHA1: 835949334aeb2cebad6dcc026301f9102685567f
+SHA256: 8647e23161422d9c815ee7f52e2b3a2df78429b5d8532d930a5e5fa5f0503be9
+Section: Tweaks
+Description: 去论坛广告、首页广告
+Author: 糖醋丶炒排骨
+Name: 汽车之家-
+
 Package: com.paigu.batterypercentage
 Version: 1.0.0-1
 Architecture: iphoneos-arm
