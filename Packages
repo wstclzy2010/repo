@@ -594,6 +594,22 @@ Description: （适用至最新测试版11.9.5，新增去除视频结尾广告�
 Author: 糖醋丶炒排骨
 Name: 百度贴吧-
 
+Package: com.paigu.tb
+Version: 1.6.3
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.tb_1.6.3_iphoneos-arm.deb
+Size: 18610
+MD5sum: dd07d03f7e158b4b1287927fcc5e2b1f
+SHA1: 6f09c8018e1ed1ed85c412d3089f504cf5349cd0
+SHA256: 45e3aa08a7f0de03d08173e7892a984e81c7d3f1800519e19adcb1d192214574
+Section: Tweaks
+Description: （适用至最新测试版11.10.0，新增去除视频列表广告视频）移除：首页顶部横幅推广、首页的直播内容、帖子内部吧名显示、帖子内部直播推荐；一条方法干掉feed流广告和帖子内部广告以及去除启动广告
+Author: 糖醋丶炒排骨
+Name: 百度贴吧-
+
 Package: com.paigu.tonhuashun
 Version: 1.0.0-1
 Architecture: iphoneos-arm
