@@ -531,6 +531,22 @@ Description: 开启会员功能
 Author: 糖醋丶炒排骨
 Name: 山丘阅读器+
 
+Package: com.paigu.smzdm
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.smzdm_1.0.0_iphoneos-arm.deb
+Size: 11766
+MD5sum: 321468e25339063edaa5c7522fc1872f
+SHA1: 23085486ef115c028b926fb0278e69c0fbfa34cc
+SHA256: 87f62d682babf06a23989117dbb5b5972af0fa4d3690ec32cd37e1f3a4d8d135
+Section: Tweaks
+Description: 去除首页、好价页面feed流广告
+Author: 糖醋丶炒排骨
+Name: 什么值得买-
+
 Package: com.paigu.tb
 Version: 1.5.0-1
 Architecture: iphoneos-arm
