@@ -1266,6 +1266,22 @@ Description: (修复“我”和“关注”页面显示和点击事件错乱的
 Author: 糖醋丶炒排骨
 Name: 微博+
 
+Package: com.paigu.wbjad
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wbjad_1.2.1_iphoneos-arm.deb
+Size: 5860
+MD5sum: 960c55ea726611eca9a9ec940b5935f0
+SHA1: a0b9e6540893ab0d587d1a9f201b429e05fa2440
+SHA256: 54eca9d041085e9b24a323edd9132fd7ce784a9b8ae2da78a939ae17d748c18c
+Section: Tweaks
+Description: (修复评论区转发页面不显示内容的问题、修复评论区仍有广告点赞数cell的问题)支持10.12.0最新版。去除启动广告、去除关注页/推荐页feed流广告、去除评论区顶部广告/评论广告、去除发现页滚动横幅、方格按钮、可开启会员功能——特别关注微博实时通知
+Author: 糖醋丶炒排骨
+Name: 微博+
+
 Package: com.paigu.wechathooklite
 Version: 0.0.2-1
 Architecture: iphoneos-arm
