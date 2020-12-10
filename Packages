@@ -515,6 +515,22 @@ Description: 去除所有广告，适配4.10.1版本
 Author: 糖醋丶炒排骨
 Name: 人人视频-
 
+Package: com.paigu.rrm
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.rrm_1.2.0_iphoneos-arm.deb
+Size: 7498
+MD5sum: 7d8006c26b236d82110f908b459f53b0
+SHA1: 75f02c0ef8f47e41af12d36c5fa3052a491d084a
+SHA256: c8d2a5d5dbbef2744029b050fe5890fe6c202dabf92e1d94a579d78fe37f1ad3
+Section: Tweaks
+Description: 去除所有广告，适配4.17.1版本
+Author: 糖醋丶炒排骨
+Name: 人人视频-
+
 Package: com.paigu.shanqiureader
 Version: 1.0.0-1
 Architecture: iphoneos-arm
