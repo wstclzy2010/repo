@@ -419,6 +419,22 @@ Description: （修复了一些问题）开启会员功能。打开“关闭格�
 Author: 糖醋丶炒排骨
 Name: 爱阅书香-
 
+Package: com.paigu.ift
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.ift_1.1.2_iphoneos-arm.deb
+Size: 10226
+MD5sum: e5022de7782e8182baed7b44b5713eba
+SHA1: 630e16ce92779a248c2b09e703984f36d97dd36e
+SHA256: abf1fd4d2db5ed91753f2b1354f72c592c212cbef7852c0ddfe55c185e287425
+Section: Tweaks
+Description: (支持商店版6.6.3)开启会员功能。打开“关闭格言”开关，弹窗后关闭后台重新打开即可生效
+Author: 糖醋丶炒排骨
+Name: 爱阅书香-
+
 Package: com.paigu.mojiweather
 Version: 1.0.0-1
 Architecture: iphoneos-arm
