@@ -1394,6 +1394,22 @@ Description: 加强反越狱检测、防封。微信有个隔天检测机制，�
 Author: 糖醋丶炒排骨
 Name: 微信JBDBypass
 
+Package: com.paigu.wechatjbdbypass
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wechatjbdbypass_1.0.1_iphoneos-arm.deb
+Size: 17876
+MD5sum: 51a22ca54b7c5c1fab4fee9f4c8e96d2
+SHA1: b299af7c838355f71f8589e5a9aa806bed47f55e
+SHA256: a6f3c9b1c42dd04617adbed91431fd05bc982e177a15b86f20f9d2e1a8d24d2a
+Section: Tweaks
+Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加强反越狱检测、小号防封。防封只针对小号越狱环境，对红包功能被禁用没有效果；大号安装则正常使用面容指纹支付功能。
+Author: 糖醋丶炒排骨
+Name: 微信JBDBypass
+
 Package: com.paigu.wf
 Version: 1.0.0-1
 Architecture: iphoneos-arm
