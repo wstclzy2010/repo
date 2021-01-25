@@ -291,6 +291,21 @@ Description: 韩剧tv启用隐藏会员、去广告，适配5.2.9最新版
 Author: 糖醋丶炒排骨
 Name: 韩剧TV+
 
+Package: com.paigu.huanyuanshenqi
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 72
+Filename: ./debs/com.paigu.huanyuanshenqi_1.0.0_iphoneos-arm.deb
+Size: 6402
+MD5sum: 7cf3be474057b73d2aaed5f3d48f7e82
+SHA1: 1ce3df6da47821c168b284b6a271bd350e6ef8a9
+SHA256: 9c1ece3c0f72585fa240bc1dad2af6433439315313776e40eec7a2ad621bf4aa
+Section: Tweaks
+Description: 商店版换源神器去广告
+Author: 糖醋丶炒排骨
+Name: 换源神器-
+
 Package: com.paigu.huya
 Version: 1.0.0-1
 Architecture: iphoneos-arm
