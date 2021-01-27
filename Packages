@@ -163,6 +163,21 @@ Description: 适配最新版6.6.1。自动跳过启动广告；去除好评弹�
 Author: 糖醋丶炒排骨
 Name: 哔哩哔哩-
 
+Package: com.paigu.bili
+Version: 1.2.0-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 104
+Filename: ./debs/com.paigu.bili_1.2.0-1_iphoneos-arm.deb
+Size: 20934
+MD5sum: 60411408439a047bb6e6ae3e7a050442
+SHA1: 1de614acca7f427cff1ab8a0f686d4eeb0f40fdd
+SHA256: 47dd727fd226cf47a447c841a561dceae0709ee237e33c3d968372e8bb61822e
+Section: Tweaks
+Description: （尝试修复新版启动闪退的问题）适配最新版6.17.0。自动跳过启动广告；去除好评弹窗；去除青少年模式弹窗；完美去掉首页顶部横幅、首页广告卡片；完美去掉视频下方广告、活动推荐、游戏推荐、up主推荐广告；普通视频可启用会员画质。
+Author: 糖醋丶炒排骨
+Name: 哔哩哔哩-
+
 Package: com.paigu.dy
 Version: 1.2.1-1
 Architecture: iphoneos-arm
