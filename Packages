@@ -306,6 +306,21 @@ Description: 商店版换源神器去广告
 Author: 糖醋丶炒排骨
 Name: 换源神器-
 
+Package: com.paigu.huanyuanshenqi
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 88
+Filename: ./debs/com.paigu.kanbayingshi_1.0.1-1_iphoneos-arm.deb
+Size: 10946
+MD5sum: fe12ed76d2862617da10ea429ead4763
+SHA1: 450bed44e7752d5d615fd8416d350633d9221404
+SHA256: 6b6748c07a6421b571346ce0b13f03db4e594009ac30b60acb6f8ebb811e30d6
+Section: Tweaks
+Description: 商店版换源神器+看吧影视去广告
+Author: 糖醋丶炒排骨
+Name: 换源神器/看吧影视-
+
 Package: com.paigu.huya
 Version: 1.0.0-1
 Architecture: iphoneos-arm
