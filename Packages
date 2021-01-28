@@ -178,6 +178,22 @@ Description: （尝试修复新版启动闪退的问题）适配最新版6.17.0�
 Author: 糖醋丶炒排骨
 Name: 哔哩哔哩-
 
+Package: com.paigu.commbank
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.commbank_1.0.0_iphoneos-arm.deb
+Size: 4514
+MD5sum: 8d7279f4e4772bd0f04f9891d5ae463a
+SHA1: 4557a77c5b4d25e249641761e2d0660703031f8f
+SHA256: 5d8e2460aec0831e9e3e90333b927f909e3bf8ed9a16af471cdc88093024f975
+Section: Tweaks
+Description: 交通银行反越狱检测
+Author: 糖醋丶炒排骨
+Name: 交通银行JBDBypass
+
 Package: com.paigu.dy
 Version: 1.2.1-1
 Architecture: iphoneos-arm
