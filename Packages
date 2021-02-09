@@ -51,6 +51,21 @@ Description: unc0ver越狱环境下的支付宝反越狱检测
 Author: 糖醋丶炒排骨
 Name: 支付宝JBDBypass
 
+Package: com.paigu.altstore-zh-cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 88
+Filename: ./debs/com.paigu.altstore-zh-cn_1.0.0_iphoneos-arm.deb
+Size: 7852
+MD5sum: 27aaa3541465c3cb710937a8358859b8
+SHA1: 60ceb1aceb0760d46c1c7aa57169302f8ff3a2ef
+SHA256: a42ae5cb18ea6e6e1b70eae88daa6022e975b2455ed4a2b726ae11a4bae0b902
+Section: Tweaks
+Description: 官方原版AltStore汉化，支持1.4.3。已知有小概率出现闪退问题，非完整汉化，卸载插件即恢复英文。
+Author: 糖醋丶炒排骨
+Name: AltStore简体中文包
+
 Package: com.paigu.amj
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
