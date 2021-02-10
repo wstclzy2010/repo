@@ -96,6 +96,21 @@ Description: 完善一部分汉化。官方原版AltStore汉化，支持1.4.3。
 Author: 糖醋丶炒排骨
 Name: AltStore简体中文包
 
+Package: com.paigu.altstore-zh-cn
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 104
+Filename: ./debs/com.paigu.altstore-zh-cn_1.0.3_iphoneos-arm.deb
+Size: 11586
+MD5sum: e81e2e0382582213a5f76d3c3971683f
+SHA1: 4dd60ea58e0bf592870f13b1f81cb21df5a64348
+SHA256: ce92442663a18f330cc357ef93ef2c3ff55170fee1cc0d7f13d1d900a7aa6bfd
+Section: Tweaks
+Description: 完善一部分汉化。官方原版AltStore汉化，支持1.4.3。已知有小概率出现闪退问题，非完整汉化，卸载插件即恢复英文。
+Author: 糖醋丶炒排骨
+Name: AltStore简体中文包
+
 Package: com.paigu.amj
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
