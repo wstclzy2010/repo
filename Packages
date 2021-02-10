@@ -81,6 +81,21 @@ Description: 修复bundleID的差异导致插件失效问题。官方原版AltSt
 Author: 糖醋丶炒排骨
 Name: AltStore简体中文包
 
+Package: com.paigu.altstore-zh-cn
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 104
+Filename: ./debs/com.paigu.altstore-zh-cn_1.0.2_iphoneos-arm.deb
+Size: 11408
+MD5sum: 32974bef7934a64f3eff60a68d33c111
+SHA1: 459916cd58fb57b6368bc6bc1ca9bcaecaba5a22
+SHA256: ec6f53ac7da47f0aaf83f493fbbecebe66527236517739d9c42035f60f6deb8f
+Section: Tweaks
+Description: 完善一部分汉化。官方原版AltStore汉化，支持1.4.3。已知有小概率出现闪退问题，非完整汉化，卸载插件即恢复英文。
+Author: 糖醋丶炒排骨
+Name: AltStore简体中文包
+
 Package: com.paigu.amj
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
