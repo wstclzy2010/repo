@@ -87,10 +87,10 @@ Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
 Installed-Size: 104
 Filename: ./debs/com.paigu.altstore-zh-cn_1.0.2_iphoneos-arm.deb
-Size: 11408
-MD5sum: 32974bef7934a64f3eff60a68d33c111
-SHA1: 459916cd58fb57b6368bc6bc1ca9bcaecaba5a22
-SHA256: ec6f53ac7da47f0aaf83f493fbbecebe66527236517739d9c42035f60f6deb8f
+Size: 11400
+MD5sum: 6e0a3fe0da1950b22352e019e0990429
+SHA1: c2e705efcf114d333117f5c46ab5be65f496ee61
+SHA256: a190fdba24f10e8ee88dfd95ec895593119c79321856e83ff8313161f6f35313
 Section: Tweaks
 Description: 完善一部分汉化。官方原版AltStore汉化，支持1.4.3。已知有小概率出现闪退问题，非完整汉化，卸载插件即恢复英文。
 Author: 糖醋丶炒排骨
