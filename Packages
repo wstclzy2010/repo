@@ -1353,6 +1353,21 @@ Description: 新增移除首页推荐问答、专栏，重构大量去广告代�
 Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
+Package: com.paigu.toutiao
+Version: 3.6.6
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 180
+Filename: ./debs/com.paigu.toutiao_3.6.6_iphoneos-arm.deb
+Size: 49452
+MD5sum: a9384c4ccfa8524c19cda701e6e74af7
+SHA1: 40b6946741ed21c707e1d1686e282dedea461b7f
+SHA256: 18525ad9bbd2e7cf6ac47a099345a84b41055d262344f47bf8c0982fc1ca8c72
+Section: Tweaks
+Description: 优化插件设置页面，适配普通版/专业版8.1.4~~~~~~~~可选：移除视频流量提醒、顶部热搜文字、置顶新闻、相关文字、相关圈子、相关搜索、相关视频、热榜热点、推荐关注、活动横幅、直播推荐、小程序、问答/专栏；去除所有广告、缩小视频分享区、下载小视频。~~~~~~~~~~~~~~~~首次安装后需要在“头条应用”内的”我“中点击下方的“清爽今日头条”，打开所需功能的开关后应当立即生效(某些选项由于只调用一次或者存在缓存导致没有立即生效的话，也可以点击关闭“关闭头条应用”重新进入应用以生效)~~~~~~~~~~~~~~~~
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
 Package: com.paigu.vfa
 Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
