@@ -587,6 +587,22 @@ Description: 免登录开启会员功能
 Author: 糖醋丶炒排骨
 Name: 墨迹天气-
 
+Package: com.paigu.neteasemusic
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.neteasemusic_1.0.2_iphoneos-arm.deb
+Size: 26270
+MD5sum: 93dea2b7392a1fad260dd8b1d273150a
+SHA1: 99400113777158b5b0a4d36dcd4a6b818d9471c0
+SHA256: 51f676781994270e5286bc3eacf75b5b5e2ceb72715f30f660975b2607e8c4d6
+Section: Tweaks
+Description: 去除广告等
+Author: 糖醋丶炒排骨
+Name: 网易云音乐+
+
 Package: com.paigu.ngh
 Version: 1.0.2-1+debug
 Architecture: iphoneos-arm
