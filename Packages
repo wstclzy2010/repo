@@ -1526,6 +1526,22 @@ Description: (修复评论区转发页面不显示内容的问题、修复评论
 Author: 糖醋丶炒排骨
 Name: 微博+
 
+Package: com.paigu.wbjad
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.paigu.wbjad_1.3.0_iphoneos-arm.deb
+Size: 33094
+MD5sum: e350925b5129b4841a62a96d56fce9bc
+SHA1: 2c5ff2f956c061435c394d46368616f59f378495
+SHA256: 495138d18b32ed461647f175db0af3f41289664fe66a614755da4cc3b4e19a65
+Section: Tweaks
+Description: (新增去除发现页所有广告、“我”页面广告卡片)支持11.3.1最新版。去除所有广告，可开启会员功能——特别关注微博实时通知
+Author: 糖醋丶炒排骨
+Name: 微博+
+
 Package: com.paigu.wechathooklite
 Version: 0.0.2-1
 Architecture: iphoneos-arm
