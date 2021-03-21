@@ -1355,6 +1355,21 @@ Author: 糖醋丶炒排骨
 Name: 清爽今日头条
 
 Package: com.paigu.toutiao
+Version: 3.6.10
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 180
+Filename: ./debs/com.paigu.toutiao_3.6.10_iphoneos-arm.deb
+Size: 53788
+MD5sum: f38a4d728e4efdeb082aa1f1901a596f
+SHA1: 65752fcb403a696bc5fe0296bc435302b8af15a6
+SHA256: 56d59d3bad5df3c476ba5cb0d86c59d1d5d792f9169a4e094e5261cf3470f76f
+Section: Tweaks
+Description: 修复开启“跳转视频评论页”功能后点击返回按钮时仍跳转视频推荐流页面的问题。适用于普通版/专业版8.1.8~~~~~~~~可选：移除视频流量提醒、顶部热搜文字、置顶新闻、相关文字、相关圈子、相关搜索、相关视频、热榜热点、推荐关注、活动横幅、直播推荐、小程序、问答/专栏；去除所有广告、缩小视频分享区、下载小视频。~~~~~~~~~~~~~~~~首次安装后需要在“头条应用”内的”我“中点击下方的“清爽今日头条”，打开所需功能的开关后应当立即生效(某些选项由于只调用一次或者存在缓存导致没有立即生效的话，也可以点击关闭“关闭头条应用”重新进入应用以生效)~~~~~~~~~~~~~~~~
+Author: 糖醋丶炒排骨
+Name: 清爽今日头条
+
+Package: com.paigu.toutiao
 Version: 3.6.5
 Architecture: iphoneos-arm
 Maintainer: 糖醋丶炒排骨
